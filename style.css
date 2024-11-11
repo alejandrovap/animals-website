@@ -1,0 +1,44 @@
+html{
+    margin: 0;
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    height: 100%;
+}
+
+header{
+    margin: 0;
+    height: 100%;
+}
+
+main{
+    background-color: #F68134;
+    margin: 0;
+    height: 100%;
+}
+
+input{
+    color: #FFFFFF;
+    background-color: #6AC5E2;
+    border-color: #6AC5E2;
+    font-family: Lexend;
+    width: 350px;
+    height: 350px;
+    border-radius: 10%;
+}
+
+footer {
+    background-color: #6AC5E2;
+    height: 100%;
+    margin: 0;
+}
+
+p {
+    color: #FFFFFF;
+    font-family: Lexend;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
